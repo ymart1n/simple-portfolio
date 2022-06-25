@@ -14,7 +14,8 @@ export default function about() {
       <div className="about-container">
         <div className="about-section">
           <h1>About Me</h1>
-          <p>
+          <h2>🏗️ Under construction, coming soon.</h2>
+          {/* <p>
             I use arch btw. I don't even know 100% about what I'm doing with it
             but I use it anyway.
           </p>
@@ -45,11 +46,11 @@ export default function about() {
               <strong>Dongfiles</strong>:{" "}
               <a href="https://github.com/krehwell/dotfiles">My Setup</a>
             </li>
-          </ul>
+          </ul> */}
         </div>
-        <div className="about-section">
+        {/* <div className="about-section">
           <Timeline />
-        </div>
+        </div> */}
       </div>
       <Footer />
     </div>

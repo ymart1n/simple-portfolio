@@ -12,17 +12,16 @@ export default function contact() {
       <Header />
       <div className="contact-container">
         <div className="contact-section">
-          <h1>Brief Myself</h1>
-          <p>
-            I love meme, vim, vim meme, and of course... nobody expects spanish
-            inquisition.
-          </p>
+          <h1>Favorite Quotes</h1>
           <p>
             <i>
-              "It's good to be king. Wait, maybe. I think maybe I'm just like a
-              little bizarre little person who walks back and forth, ..."
+              "You can't do anything about the length of your life, but you can
+              do something about its width and depth."
             </i>{" "}
-            ~ Terry A. Davis
+            ~ H. L. Mencken
+          </p>
+          <p>
+            <i>"Stay Hungry, Stay Foolish."</i> ~ Steve Jobs (Probably :p)
           </p>
         </div>
         <div className="contact-section">

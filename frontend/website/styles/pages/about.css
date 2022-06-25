@@ -1,5 +1,5 @@
 .about-container {
-  min-height: calc(100vh - (85px + 100px));
+  min-height: calc(100vh - (85px + 225px));
   margin-top: 60px;
   margin-bottom: 40px;
 }
