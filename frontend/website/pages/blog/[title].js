@@ -74,15 +74,17 @@ export default function Title({ data }) {
         )}
       </div>
       <Giscus
-        repo="krehwell/P-Blog"
-        repoId="MDEwOlJlcG9zaXRvcnkzNDA3Nzc0ODI="
+        repo="ymart1n/simple-portfolio"
+        repoId="R_kgDOHjp5ig"
         category="General"
-        categoryId="DIC_kwDOFE_aCs4B_2iF"
+        categoryId="DIC_kwDOHjp5is4CP3iT"
         mapping="title"
         reactionsEnabled="1"
         emitMetadata="0"
         theme="light"
         lang="en"
+        loading="lazy"
+        inputPosition="top"
         crossorigin="anonymous"
       />
       <Footer />

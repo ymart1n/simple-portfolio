@@ -251,14 +251,14 @@ export default function Timeline() {
       {isShowingFullTimeline ? (
         <FullTimeline />
       ) : (
-        <div style={{ textAlign: "center" }}>
+        <div style={{ textAlign: "center", marginTop: "3rem" }}>
           {" "}
           <button
             className="button-14"
             type="button"
             onClick={() => showFullTimeline(true)}
           >
-            See More
+            Load More
           </button>
         </div>
       )}

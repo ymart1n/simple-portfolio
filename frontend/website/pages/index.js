@@ -66,12 +66,20 @@ export default function ({ data }) {
           </p>
         </div>
         <div className="homepage-latest-blog-posts">
-          <h2>
-            📰 Latest Blog Posts{" "}
+          <div
+            style={{
+              height: "60px",
+              display: "flex",
+              alignItems: "center",
+            }}
+          >
+            <h2>📰 Latest Blog Posts </h2>
             <Link href="/blog">
               <a className="homepage-latest-blog-posts-view-all">View all</a>
+              {/* <a className="button-14">View all</a> */}
             </Link>
-          </h2>
+          </div>
+
           <div className="homepage-latest-blog-posts-list">
             <Posts data={data} />
           </div>
@@ -91,11 +99,8 @@ export default function ({ data }) {
                 search functionality is working unlike the original forum itself
               </p>
               <div className="homepage-project-btns">
-                <a
-                  className="homepage-project-view-btn"
-                  href="https://forum.krehwell.com/"
-                >
-                  view
+                <a className="button-14" href="https://forum.krehwell.com/">
+                  View
                 </a>
               </div>
             </div>
@@ -113,10 +118,10 @@ export default function ({ data }) {
               </p>
               <div className="homepage-project-btns">
                 <a
-                  className="homepage-project-view-btn"
+                  className="button-14"
                   href="https://gitlab.com/krehwell/boomermath"
                 >
-                  view
+                  View
                 </a>
               </div>
             </div>
@@ -134,11 +139,8 @@ export default function ({ data }) {
                 but do it in on internet
               </p>
               <div className="homepage-project-btns">
-                <a
-                  className="homepage-project-view-btn"
-                  href="https://sexgod.herokuapp.com"
-                >
-                  view
+                <a className="button-14" href="https://sexgod.herokuapp.com">
+                  View
                 </a>
               </div>
             </div>
@@ -154,11 +156,8 @@ export default function ({ data }) {
                 video call)
               </p>
               <div className="homepage-project-btns">
-                <a
-                  className="homepage-project-view-btn"
-                  href="https://callntol.vercel.app/"
-                >
-                  view
+                <a className="button-14" href="https://callntol.vercel.app/">
+                  View
                 </a>
               </div>
             </div>
@@ -174,10 +173,10 @@ export default function ({ data }) {
               </p>
               <div className="homepage-project-btns">
                 <a
-                  className="homepage-project-view-btn"
+                  className="button-14"
                   href="https://github.com/krehwell?tab=repositories"
                 >
-                  view
+                  View
                 </a>
               </div>
             </div>
