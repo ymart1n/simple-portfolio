@@ -14,20 +14,12 @@ export default function about() {
       <div className="about-container">
         <div className="about-section">
           <h1>About Me</h1>
-          <h2>🏗️ Under construction, coming soon.</h2>
-          {/* <p>
-            I use arch btw. I don't even know 100% about what I'm doing with it
-            but I use it anyway.
-          </p>
+          {/* <h2>🏗️ Under construction, coming soon.</h2> */}
+          <p>Hope you enjoy exploring my blog and my projects.</p>
           <p>
-            I feel so exhausted trying to finish this junk blog as a fullstack +
-            cms project of mine and there are always last minute changes which
-            are not last minute.
-          </p>
-          <p>
-            Sometimes hang around with frontend, sometimes backend, sometimes
-            design. Everything's is so tiring that leads to beat a meat in the
-            end.
+            If you would like to share your thoughts, you can leave comments on
+            the blogs or get in touch with me directly (contact info can be
+            found on the Contact page).
           </p>
         </div>
         <div className="about-section">
@@ -35,22 +27,47 @@ export default function about() {
           <ul>
             <li>
               <strong>Main Machine</strong>:{" "}
-              <a href="https://archlinux.org/">Arch Linux</a> +{" "}
-              <a href="https://i3wm.org/">i3</a>{" "}
+              <a
+                href="https://www.apple.com/ca/macos/monterey/"
+                rel="noreferrer"
+                target="_blank"
+              >
+                macOS Monterey
+              </a>{" "}
+              +{" "}
+              <a
+                href="https://support.apple.com/kb/SP819"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Intel Chip MacBook Pro
+              </a>{" "}
+              (intel chip for life :D)
             </li>
             <li>
-              <strong>Editor</strong>: <a href="https://www.vim.org/">Vim</a> +{" "}
-              <a href="https://github.com/tmux/tmux/wiki">tmux</a> 🔥
+              <strong>Editor</strong>:{" "}
+              <a
+                href="https://code.visualstudio.com/"
+                rel="noreferrer"
+                target="_blank"
+              >
+                VS Code
+              </a>{" "}
+              +{" "}
+              <a
+                href="https://marketplace.visualstudio.com/vscode"
+                rel="noreferrer"
+                target="_blank"
+              >
+                A bunch of amazing extensions
+              </a>{" "}
+              🔌
             </li>
-            <li>
-              <strong>Dongfiles</strong>:{" "}
-              <a href="https://github.com/krehwell/dotfiles">My Setup</a>
-            </li>
-          </ul> */}
+          </ul>
         </div>
-        {/* <div className="about-section">
+        <div className="about-section">
           <Timeline />
-        </div> */}
+        </div>
       </div>
       <Footer />
     </div>

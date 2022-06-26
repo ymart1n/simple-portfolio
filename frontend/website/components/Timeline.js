@@ -26,109 +26,62 @@ const FullTimeline = () => (
     <Divider />
     <Year>2018</Year>
     <ul>
-      <Step title="Learn How to Program 💻" succeed>
-        All students seems good at first. By the time going forward it's more to
-        who consistently keep learning it. I knew it was going to be an uphill
-        battle from here.
+      <Step title="Study Abroad 🛫 🌅" succeed>
+        First time being away from home for 12,023 km and four years.
       </Step>
-      <Step title="Finish ChiliTomatoNoodle Series I & II" succeed>
-        College doesn't really help for me. I know ass about programming, I had
-        to re-learned everything over on second/third semester. Lucky that I
-        found this channel that starts my journey to never stop writing lines of
-        codes everyday ever since.{" "}
-        <a href="https://www.youtube.com/user/ChiliTomatoNoodle">
-          ChiliTomatoNoodle
+      <Step title="Graduate High School 🥳 🎉" succeed />
+      <Step title="Learn How to Program 👨🏻‍💻" succeed>
+        Along with reading the{" "}
+        <a
+          href="https://ehmatthes.github.io/pcc/"
+          rel="noreferrer"
+          target="_blank"
+        >
+          Python Crash Course
         </a>
-      </Step>
-      <Step title="Learn Touch Typing with Typing Club ⌨️" succeed />
-      <Step title="Get into WSL" succeed>
-        Just wanted to look pro, I started linux with WSL. Learn how to operate
-        from terminal command. Tried Vim for first time and leave it for year
-        for the reason it seems suck initially.
+        , I wrote my first line of code in Python. It may appear to be a bit
+        late in comparison to people who begin coding as children. But this is
+        the beginning of my story.
       </Step>
     </ul>
     <Divider />
-    <Year>2017</Year>
+    <Year>2016</Year>
     <ul>
-      <Step title="Study Abroad 🌇" succeed>
-        Seems cool at first. Eventually all University provides same shit
-        though. Teach students how to improve their balls to talk trash with no
-        skill, Lecturer acts like a pro infront of students, Money over
-        education, Student prestige to behave like one better than other, etc.
+      <Step title="Lowest Physics Score in School ⚛️ 📉" succeed>
+        Monthly physics test, I decided not to show off myself that I'm a genius
+        man. <br></br>100 marks, I lost 73 marks. TT
       </Step>
-      <Step title="Graduate High School 🎉 🥳" succeed />
-      <Step title="Lowest Physics Score in School 📉" succeed>
-        40~ students, 30~ took the test. I decided that I didn’t want to show
-        off myself that I'm a genius man. 40 questions, I got 37 quetions wrong.
-      </Step>
-      <Step title="Eligible to Design  " succeed>
-        At this year, I proudly said to myself that "I am a designer". Not long
-        since that, I proudly took back all my words and decided to shut the f
-        up. And that's everyone's feelings when they found out{" "}
-        <a href="https://www.behance.net/">Behance</a>. Photoshop and
-        Illustrator was my playground at a time. There wasn't a day without not
-        opening this software.
-      </Step>
-      <Step title="First Futsal Team ⚽" succeed />
-      <Step title="First Basketball Team 🏀" succeed />
+      <Step title="First Soccer Game with refs ⚽" succeed />
+      <Step title="First Basketball Game with refs 🏀" succeed />
     </ul>
     <Divider />
-    <Year>2014</Year>
+    <Year>2015</Year>
     <ul>
-      <Step title="Get a GF">I was suck. She said "no".</Step>
-      <Step title="Lowest Math Score in School 📉" succeed>
-        This is personal achievement. There were 120+ students. 120+ took the
-        same test, same question, and same teacher who thaught. I was super glad
-        that it wasn't hard to find my name on the list, search it from below
-        brought the result quickly.
-      </Step>
-      <Step title="Learn Photoshop" succeed>
-        Old day used to be full with facebook games (Car Town, Social City,
-        etc.). Somehow I found out that designing was interesting. Back then
-        when youtube was not full of those content creators, the only way to
-        learn is from web and Photoshop docs itself. Remember bookmarking a
-        blog? Pepperidge farm remembers.
+      <Step title="Graduate Junior High School" succeed>
+        Got into the second best high school in Fuzhou, Fujian.
       </Step>
     </ul>
     <Divider />
-    <Year>2011</Year>
+    <Year>2012</Year>
     <ul>
-      <Step title="High Jump Winner in City" succeed>
-        Those people who compete were so vegetable that they couldn't even jump
-        more that 1 Meter.
-      </Step>
-      <Step title="High Jump Winner in Province">
-        At the same year, to compete even further, now I'm the vegetable.
-      </Step>
-    </ul>
-    <Divider />
-    <Year>2010</Year>
-    <ul>
-      <Step title="#1 in Class for First Ever" succeed>
-        Never in my life to be in a class with full of dumbs. I couldn't even
-        believe myself at a time.
+      <Step title="#1 in Class for First In Junior High School" succeed>
+        Never in my life to be in a class with full of genius but still secure
+        #1. I couldn't even believe myself at a time.
       </Step>
       <Step title="#1 in Class for Second Time">
-        Unfortunately to be #1 can only persist for one semester. But since the
-        class was still full of those dumbs, can't believe still got a chance to
-        be on the top 5.
+        Unfortunately to be #1 can only persist for one semester. But I was
+        always top 5 in class for the rest of semesters ;p.
       </Step>
     </ul>
     <Divider />
-    <Year>2008</Year>
+    <Year>2007</Year>
     <ul>
       <Step title="First Computer" succeed>
-        One computer to all members in the family. Windows XP with the spirit of
-        banger from Winamp. The only reason the fat man (god father) bought it
-        just so the kids can learn English from a DVD player (weird huh? but
-        that's what boomer did and now I'm greatful)
-      </Step>
-    </ul>
-    <Divider />
-    <Year>2005</Year>
-    <ul>
-      <Step title="Passing First Grade">
-        Yes, seems really not normal to many people but I failed first grade.
+        One computer to all members in the family. Windows XP with interesting
+        software really opened my eyes. Most of them are pirated software like
+        Pokemon games, GBA simulator, etc (even the operating system itself was
+        pirated XD). I'm very grateful for the amount of information I absorbed
+        during the technology boom at my early age.
       </Step>
     </ul>
     <Divider />
@@ -145,7 +98,11 @@ export default function Timeline() {
   return (
     <>
       <h2>📆 Timeline</h2>
-      <Year>2021</Year>
+      <p>
+        🏗️ 2019 - 2022 Timeline is under construction, coming soon. <br></br>
+        👷🏻 Click 'Load More' button to see timeline before 2019.
+      </p>
+      {/* <Year>2021</Year>
       <ul>
         <Step title="Graduate University 🎓" succeed>
           Finally get rid of those salty, unskillful, arrogant lecturers 🎉.
@@ -247,7 +204,7 @@ export default function Timeline() {
           blessed to be alive ❤️💖.
         </Step>
         <Step title="10FastFingers - Average 50 WPM 💫" succeed />
-      </ul>
+      </ul> */}
       {isShowingFullTimeline ? (
         <FullTimeline />
       ) : (

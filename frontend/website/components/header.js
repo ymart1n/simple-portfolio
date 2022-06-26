@@ -9,7 +9,7 @@ export default class extends Component {
           <div className="header-logo">
             <Link href="/">
               <a>
-                <span className="header-logo-icon">∠( ᐛ 」∠)＿</span>
+                <span className="header-logo-icon">∠( ᐛ 」∠)__ </span>
                 <span className="header-logo-text">ymart1n</span>
               </a>
             </Link>
