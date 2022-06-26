@@ -81,14 +81,14 @@
 
 .blog-post-body-content a {
   text-decoration: none;
-  color: #ff6600;
+  color: #00bfff;
   border-bottom: 2px solid #e2eafd;
 }
 
 .blog-post-body-content a:hover {
-  color: #ff6600;
+  color: #00bfff;
   background: #f0f4fe;
-  border-bottom: 2px solid #ff6600;
+  border-bottom: 2px solid #00bfff;
 }
 
 .blog-post-body-content ol {

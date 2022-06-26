@@ -15,7 +15,9 @@
 }
 
 .homepage-latest-blog-posts {
-  margin-top: 70px;
+  margin-top: 40px;
+  padding-top: 15px;
+  border-top: 1px solid #e5e5e5;
 }
 
 .homepage-latest-blog-posts h2,
@@ -81,7 +83,9 @@
 }
 
 .homepage-projects {
-  margin-top: 70px;
+  margin-top: 40px;
+  padding-top: 15px;
+  border-top: 1px solid #e5e5e5;
 }
 
 .homepage-project {
@@ -134,9 +138,9 @@
 .homepage-project-view-btn {
   -webkit-appearance: none;
   display: inline-block;
-  border: 2px solid #ff6600;
+  border: 2px solid #00bfff;
   border-radius: 4px;
-  background: #ff6600;
+  background: #00bfff;
   color: #fff;
   font-weight: 600;
   font-size: 14px;
@@ -150,9 +154,9 @@
 }
 
 .homepage-project-view-btn:hover {
-  border: 2px solid #ff6600;
+  border: 2px solid #00bfff;
   color: #fff;
-  background: #ff6600;
+  background: #00bfff;
   text-decoration: none;
 }
 

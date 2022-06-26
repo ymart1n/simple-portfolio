@@ -178,7 +178,6 @@ export default function ({ data }) {
                 </a>
               </div>
             </div>
-
             <div className="homepage-project">
               <h3>
                 <a
@@ -200,6 +199,93 @@ export default function ({ data }) {
                 <a
                   className="button-14"
                   href="https://www.hypertransit.ca/"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+            </div>
+            <div className="homepage-project">
+              <h3>
+                <a
+                  href="https://ieeexplore.ieee.org/document/9624252"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  <div className="homepage-project-icon">🔬</div>
+                  <div className="homepage-project-title">
+                    ML Research Paper
+                  </div>
+                </a>
+              </h3>
+              <p>
+                Published a machine learning research paper in IEEE, A Medical
+                Pre-Diagnosis System for Histopathological Image of Breast
+                Cancer.
+              </p>
+              <div className="homepage-project-btns">
+                <a
+                  className="button-14"
+                  href="https://ieeexplore.ieee.org/document/9624252"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+            </div>
+            <div className="homepage-project">
+              <h3>
+                <a
+                  href="https://www.researchgate.net/publication/357417399_The_Impacts_of_LowNo-Code_Development_on_Digital_Transformation_and_Software_Development"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  <div className="homepage-project-icon">👨🏻‍💻</div>
+                  <div className="homepage-project-title">
+                    Low-Code Research Paper
+                  </div>
+                </a>
+              </h3>
+              <p>
+                Published a low/no-code development research paper, The Impacts
+                of Low/No-Code Development on Digital Transformation and
+                Software Development. arXiv link:
+                https://arxiv.org/abs/2112.14073.
+              </p>
+              <div className="homepage-project-btns">
+                <a
+                  className="button-14"
+                  href="https://www.researchgate.net/publication/357417399_The_Impacts_of_LowNo-Code_Development_on_Digital_Transformation_and_Software_Development"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+            </div>
+            <div className="homepage-project">
+              <h3>
+                <a
+                  href="https://www.researchgate.net/publication/357417399_The_Impacts_of_LowNo-Code_Development_on_Digital_Transformation_and_Software_Development"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  <div className="homepage-project-icon">🦾</div>
+                  <div className="homepage-project-title">flowboat</div>
+                </a>
+              </h3>
+              <p>
+                Built flowboat, A Node-Based Machine Learning App, for Hack the
+                Valley V hackathon. flowboat is a web application that allows
+                anyone to experience Machine Learning algorithms without having
+                to code.
+              </p>
+              <div className="homepage-project-btns">
+                <a
+                  className="button-14"
+                  href="https://www.researchgate.net/publication/357417399_The_Impacts_of_LowNo-Code_Development_on_Digital_Transformation_and_Software_Development"
                   rel="noreferrer"
                   target="_blank"
                 >
