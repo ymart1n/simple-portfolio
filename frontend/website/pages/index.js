@@ -67,14 +67,35 @@ export default function ({ data }) {
           <h1>Hi, I'm ymart1n. I am an ECE student.</h1>
           <p>
             I graduated from{" "}
-            <a href="https://www.utoronto.ca/" rel="noreferrer" target="_blank">
+            <a
+              href="https://www.utoronto.ca/"
+              rel="noreferrer"
+              target="_blank"
+              style={{
+                color: "#00bfff",
+                textDecoration: "none",
+                fontWeight: "600",
+                borderBottom: "2px solid #e2eafd",
+              }}
+            >
               University of Toronto
             </a>{" "}
             in June, 2022 with an Honours Bachelor's degree in Computer Science
             with High Distinction. I'm currently pursuing my M.Eng degree at{" "}
-            <a href="https://www.ubc.ca/" rel="noreferrer" target="_blank">
-              The University of British Columbia.
+            <a
+              href="https://www.ubc.ca/"
+              rel="noreferrer"
+              target="_blank"
+              style={{
+                color: "#00bfff",
+                textDecoration: "none",
+                fontWeight: "600",
+                borderBottom: "2px solid #e2eafd",
+              }}
+            >
+              The University of British Columbia
             </a>
+            .
           </p>
           <p>
             I love to use codes to solve algorithm challenges, build web
@@ -89,11 +110,27 @@ export default function ({ data }) {
               href="https://github.com/krehwell/P-Blog"
               rel="noreferrer"
               target="_blank"
+              style={{
+                color: "#00bfff",
+                textDecoration: "none",
+                fontWeight: "600",
+                borderBottom: "2px solid #e2eafd",
+              }}
             >
               open-source
             </a>{" "}
             and is made using Next.js &amp; Express.js and deployed on{" "}
-            <a href="http://vercel.com/" rel="noreferrer" target="_blank">
+            <a
+              href="http://vercel.com/"
+              rel="noreferrer"
+              target="_blank"
+              style={{
+                color: "#00bfff",
+                textDecoration: "none",
+                fontWeight: "600",
+                borderBottom: "2px solid #e2eafd",
+              }}
+            >
               Vercel
             </a>
             .
