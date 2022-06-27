@@ -39,7 +39,7 @@ app.use(helmet());
 
 /// ROUTES
 app.get("/", (_, res) => {
-  res.send("webstie-api is working, kel!");
+  res.send("website-api is working!");
 });
 
 app.use(require("./routes/index.js"));
