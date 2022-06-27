@@ -38,6 +38,10 @@ export default function contact() {
               <strong>LinkedIn</strong>:{" "}
               <a href="https://www.linkedin.com/in/zhaohangyan/">zhaohangyan</a>
             </li>
+            <li>
+              <strong>LeetCode</strong>:{" "}
+              <a href="https://leetcode.com/ymart1n/">ymart1n</a>
+            </li>
           </ul>
         </div>
       </div>
