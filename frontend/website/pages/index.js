@@ -59,7 +59,7 @@ export default function ({ data }) {
     <div className="layout-wrapper">
       <HeadMetadata
         title="Zhaohang Yan Portfolio"
-        metaDescription="a blog and portfolio of Zhaohang Yan - ECE/CS Student"
+        metaDescription="A blog and portfolio of Zhaohang Yan"
       />
       <Header />
       <div className="homepage-container">
