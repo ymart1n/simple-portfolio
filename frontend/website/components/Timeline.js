@@ -165,7 +165,28 @@ export default function Timeline() {
           </ul>
         </Step>
         <Step title="Learn Next.js" inProgress />
-        <Step title="BonZeb CV Project Finished 🐟" succeed />
+        <Step title="BonZeb CV Project Finished 🐟" succeed>
+          <ul>
+            <li>
+              <a
+                href="https://github.com/ymart1n/BonZeb_CSharp"
+                rel="noreferrer"
+                target="_blank"
+              >
+                BonZeb
+              </a>{" "}
+              is a Bonsai library for high-resolution zebrafish behavioural
+              tracking and analysis. The project is to add the real-time
+              tracking feature to the current BonZeb library so that researchers
+              can collect accurate behavioural data easier.
+            </li>
+            <li>
+              {" "}
+              Computer Science Project - Fall 2021/Winter 2022: Machine Learning
+              in real-time analysis of multi-animal tracking experiments
+            </li>
+          </ul>
+        </Step>
         <Step title="Learn Nest.js" inProgress />
         <Step title="Learn Google Cloud Platform" inProgress />
         <Step title="mdTogether Made 📝" succeed>
@@ -273,24 +294,7 @@ export default function Timeline() {
               </a>{" "}
               @UofT
             </li>
-            <li>
-              <a
-                href="https://github.com/ymart1n/BonZeb_CSharp"
-                rel="noreferrer"
-                target="_blank"
-              >
-                BonZeb
-              </a>{" "}
-              is a Bonsai library for high-resolution zebrafish behavioural
-              tracking and analysis. The project is to add the real-time
-              tracking feature to the current BonZeb library so that researchers
-              can collect accurate behavioural data easier.
-            </li>
-            <li>
-              {" "}
-              Computer Science Project - Fall 2021/Winter 2022: Machine Learning
-              in real-time analysis of multi-animal tracking experiments
-            </li>
+            <li>Working on BonZeb computer vision research project.</li>
           </ul>
         </Step>
         <Step title="flowboat Made 🛥️" succeed>
