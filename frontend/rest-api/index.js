@@ -39,7 +39,7 @@ app.use(helmet());
 
 /// ROUTES
 app.get("/", (_, res) => {
-  res.send("website-api is working!");
+  res.send("website-api is working!!");
 });
 
 app.use(require("./routes/index.js"));
