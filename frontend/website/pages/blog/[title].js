@@ -9,6 +9,8 @@ import "prismjs/components/prism-vim.min.js";
 import "prismjs/components/prism-bash.min.js";
 import "prismjs/components/prism-json";
 import "prismjs/components/prism-python";
+import "prismjs/components/prism-c";
+import "prismjs/components/prism-cpp";
 import { Giscus } from "@giscus/react";
 
 import Header from "../../components/header.js";
