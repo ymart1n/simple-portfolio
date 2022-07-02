@@ -63,6 +63,28 @@ export default function about() {
               </a>{" "}
               🔌
             </li>
+            <li>
+              <strong>Keyboard</strong>:{" "}
+              <a
+                href="https://www.keychron.com/products/keychron-k2-hot-swappable-wireless-mechanical-keyboard?variant=32187465662553"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Keychron K2 Wireless Mechanical Keyboard V2
+              </a>{" "}
+              ⌨️
+            </li>
+            <li>
+              <strong>Monitor</strong>:{" "}
+              <a
+                href="https://www.dell.com/en-ca/shop/dell-27-4k-uhd-usb-c-monitor-s2722qc/apd/210-bbqt/monitors-monitor-accessories"
+                rel="noreferrer"
+                target="_blank"
+              >
+                Dell 27 4K UHD USB-C Monitor
+              </a>{" "}
+              🖥️
+            </li>
           </ul>
         </div>
         <div className="about-section">
