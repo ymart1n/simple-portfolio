@@ -81,6 +81,41 @@
         <priority>0.7</priority>
     </url>
     <url>
+        <loc>https://zhaohyan22.vercel.app/tags/leetcode</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://zhaohyan22.vercel.app/tags/algorithm</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://zhaohyan22.vercel.app/tags/array</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://zhaohyan22.vercel.app/tags/notes</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://zhaohyan22.vercel.app/tags/linked list</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://zhaohyan22.vercel.app/tags/C++</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://zhaohyan22.vercel.app/tags/daily challenge</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
         <loc>https://zhaohyan22.vercel.app/blog/my-first-footprint-here</loc>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
@@ -97,6 +132,26 @@
     </url>
     <url>
         <loc>https://zhaohyan22.vercel.app/blog/hackers-n-painters</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://zhaohyan22.vercel.app/blog/leetcode-notes-array</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://zhaohyan22.vercel.app/blog/leetcode-notes-linked-list</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://zhaohyan22.vercel.app/blog/cpp-study-notes</loc>
+        <changefreq>daily</changefreq>
+        <priority>0.7</priority>
+    </url>
+    <url>
+        <loc>https://zhaohyan22.vercel.app/blog/july-leetcoding-challenge-2022</loc>
         <changefreq>daily</changefreq>
         <priority>0.7</priority>
     </url>
