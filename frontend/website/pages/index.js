@@ -162,6 +162,84 @@ export default function ({ data }) {
             <div className="homepage-project">
               <h3>
                 <a
+                  href="https://wesharing.vercel.app/"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  <div className="homepage-project-icon">🧑🏻‍🤝‍🧑🏻</div>
+                  <div className="homepage-project-title">WeShare</div>
+                </a>
+              </h3>
+              <p>
+                WeShare is a social media platform where people share
+                interesting stuff. A Full-stack MERN project.
+              </p>
+              <div className="homepage-project-btns">
+                <a
+                  className="button-14"
+                  href="https://github.com/ymart1n/WeShare"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+            </div>
+            <div className="homepage-project">
+              <h3>
+                <a
+                  href="https://github.com/ymart1n/ClosedLake"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  <div className="homepage-project-icon">🚤</div>
+                  <div className="homepage-project-title">ClosedLake</div>
+                </a>
+              </h3>
+              <p>
+                ClosedLake is an NFT Marketplace that deployed on Mumbai
+                testnet. You can trade NFT freely on ClosedLake :p
+              </p>
+              <div className="homepage-project-btns">
+                <a
+                  className="button-14"
+                  href="https://github.com/ymart1n/ClosedLake"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+            </div>
+            <div className="homepage-project">
+              <h3>
+                <a
+                  href="https://github.com/ymart1n/TeamSpace"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  <div className="homepage-project-icon">🪐</div>
+                  <div className="homepage-project-title">TeamSpace</div>
+                </a>
+              </h3>
+              <p>
+                TeamSpace is an online donation app for space debris removal. It
+                is built using React.js, Nest.js, Prisma, TypeScript, GraphQL.
+              </p>
+              <div className="homepage-project-btns">
+                <a
+                  className="button-14"
+                  href="https://github.com/ymart1n/TeamSpace"
+                  rel="noreferrer"
+                  target="_blank"
+                >
+                  View
+                </a>
+              </div>
+            </div>
+            <div className="homepage-project">
+              <h3>
+                <a
                   href="https://github.com/ymart1n/BonZeb_CSharp"
                   rel="noreferrer"
                   target="_blank"
@@ -302,7 +380,7 @@ export default function ({ data }) {
                 </a>
               </div>
             </div>
-            <div className="homepage-project">
+            {/* <div className="homepage-project">
               <h3>
                 <a
                   href="https://www.researchgate.net/publication/357417399_The_Impacts_of_LowNo-Code_Development_on_Digital_Transformation_and_Software_Development"
@@ -329,7 +407,7 @@ export default function ({ data }) {
                   View
                 </a>
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
       </div>
