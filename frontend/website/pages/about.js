@@ -45,23 +45,53 @@ export default function about() {
               (intel chip for life :D)
             </li>
             <li>
-              <strong>Editor</strong>:{" "}
-              <a
-                href="https://code.visualstudio.com/"
-                rel="noreferrer"
-                target="_blank"
-              >
-                VS Code
-              </a>{" "}
-              +{" "}
-              <a
-                href="https://marketplace.visualstudio.com/vscode"
-                rel="noreferrer"
-                target="_blank"
-              >
-                A bunch of amazing extensions
-              </a>{" "}
-              🔌
+              <strong>Editor</strong>:<br></br>
+              <ul>
+                <li>
+                  <a
+                    href="https://code.visualstudio.com/"
+                    rel="noreferrer"
+                    target="_blank"
+                  >
+                    VS Code
+                  </a>{" "}
+                  +{" "}
+                  <a
+                    href="https://marketplace.visualstudio.com/vscode"
+                    rel="noreferrer"
+                    target="_blank"
+                  >
+                    A bunch of amazing extensions
+                  </a>{" "}
+                  🔌
+                </li>
+                <li>
+                  <a
+                    href="https://www.vim.org/"
+                    rel="noreferrer"
+                    target="_blank"
+                  >
+                    Vim
+                  </a>{" "}
+                  +{" "}
+                  <a
+                    href="https://iterm2.com/"
+                    rel="noreferrer"
+                    target="_blank"
+                  >
+                    iTerm2
+                  </a>{" "}
+                  +{" "}
+                  <a
+                    href="https://github.com/tmux/tmux/wiki"
+                    rel="noreferrer"
+                    target="_blank"
+                  >
+                    tmux
+                  </a>{" "}
+                  ✌🏼
+                </li>
+              </ul>
             </li>
             <li>
               <strong>Keyboard</strong>:{" "}
