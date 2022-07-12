@@ -14,14 +14,29 @@ export default function about() {
       <div className="about-container">
         <div className="about-section">
           <h1>About Me</h1>
-          {/* <h2>🏗️ Under construction, coming soon.</h2> */}
-          <p>Hope you enjoy exploring my blog and my projects.</p>
-          <p>
-            If you would like to share your thoughts, you can leave comments on
-            the blogs or get in touch with me directly (contact info can be
-            found on the Contact page).
-          </p>
+          <ul>
+            <li>Hope you enjoy exploring my blog and my projects.</li>
+            <li>
+              If you would like to share your thoughts, you can leave comments
+              on the blogs or get in touch with me directly (contact info can be
+              found on the Contact page).
+            </li>
+            <li>
+              Don't think it's legit scientific but my MBTI personality type is{" "}
+              <a
+                href="https://www.16personalities.com/intj-personality"
+                rel="noreferrer"
+                target="_blank"
+              >
+                INTJ
+              </a>{" "}
+              🤔
+            </li>
+          </ul>
         </div>
+
+        {/* <h2>🏗️ Under construction, coming soon.</h2> */}
+
         <div className="about-section">
           <h2>🛠️ Personal Tools</h2>
           <ul>
